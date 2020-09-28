@@ -13,7 +13,7 @@
     {
       "name": "Second Largest",
       "setup": "",
-      "run": "./gradlew clean test --tests MyTests.secondLargest",
+      "run": "./gradlew clean test --tests MyTests.testSecondLargest",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -23,7 +23,7 @@
     {
       "name": "IsGeometric",
       "setup": "",
-      "run": "./gradlew clean test --tests MyTests.isGeometric",
+      "run": "./gradlew clean test --tests MyTests.testIsGeometric",
       "input": "",
       "output": "",
       "comparison": "included",
